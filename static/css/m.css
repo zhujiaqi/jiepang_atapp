@@ -1,0 +1,12 @@
+#header-right { float:right; width:32px; background:#fff; }
+
+ul.ui-listview li.collapse { height:60px; overflow:hidden; }
+
+#custom-grid div.ui-block-a { width:30%; }
+#custom-grid div.ui-block-b { width:70%; }
+
+#login-form input.ui-input-text { width:100%; }
+
+div.ui-checkbox { width:90%; }
+/* input#add-text { position:relative; top:-15px; left:10px; } */
+a.delete-word { float:right; }
